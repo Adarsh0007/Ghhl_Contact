@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/crm-contact-section/static/css/main.270859ab.css",
-    "main.js": "/crm-contact-section/static/js/main.e0c274db.js",
-    "index.html": "/crm-contact-section/index.html",
-    "main.270859ab.css.map": "/crm-contact-section/static/css/main.270859ab.css.map",
-    "main.e0c274db.js.map": "/crm-contact-section/static/js/main.e0c274db.js.map"
+    "main.css": "/Ghhl_Contact/static/css/main.270859ab.css",
+    "main.js": "/Ghhl_Contact/static/js/main.e0c274db.js",
+    "index.html": "/Ghhl_Contact/index.html",
+    "main.270859ab.css.map": "/Ghhl_Contact/static/css/main.270859ab.css.map",
+    "main.e0c274db.js.map": "/Ghhl_Contact/static/js/main.e0c274db.js.map"
   },
   "entrypoints": [
     "static/css/main.270859ab.css",
