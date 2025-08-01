@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/crm-contact-section/static/css/main.270859ab.css",
+    "main.js": "/crm-contact-section/static/js/main.e0c274db.js",
+    "index.html": "/crm-contact-section/index.html",
+    "main.270859ab.css.map": "/crm-contact-section/static/css/main.270859ab.css.map",
+    "main.e0c274db.js.map": "/crm-contact-section/static/js/main.e0c274db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.270859ab.css",
+    "static/js/main.e0c274db.js"
+  ]
+}
