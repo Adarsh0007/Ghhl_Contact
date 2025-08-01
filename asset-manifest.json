@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Ghhl_Contact/static/css/main.270859ab.css",
-    "main.js": "/Ghhl_Contact/static/js/main.e0c274db.js",
-    "index.html": "/Ghhl_Contact/index.html",
-    "main.270859ab.css.map": "/Ghhl_Contact/static/css/main.270859ab.css.map",
-    "main.e0c274db.js.map": "/Ghhl_Contact/static/js/main.e0c274db.js.map"
+    "main.css": "/crm-contact-app/static/css/main.97144770.css",
+    "main.js": "/crm-contact-app/static/js/main.19800801.js",
+    "index.html": "/crm-contact-app/index.html",
+    "main.97144770.css.map": "/crm-contact-app/static/css/main.97144770.css.map",
+    "main.19800801.js.map": "/crm-contact-app/static/js/main.19800801.js.map"
   },
   "entrypoints": [
-    "static/css/main.270859ab.css",
-    "static/js/main.e0c274db.js"
+    "static/css/main.97144770.css",
+    "static/js/main.19800801.js"
   ]
 }
