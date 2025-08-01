@@ -1,5 +1,6 @@
 import React from 'react';
 import { Phone, ChevronDown, X, Plus } from 'lucide-react';
+import LazyImage from './LazyImage';
 import './ContactSummary.css';
 
 const ContactSummary = ({ contact, owner, followers, tags }) => {
@@ -8,7 +9,7 @@ const ContactSummary = ({ contact, owner, followers, tags }) => {
       <div className="contact-header">
         <div className="contact-info">
           <div className="avatar-container">
-            <img 
+            <LazyImage 
               src={contact.avatar} 
               alt={contact.name}
               className="contact-avatar"
@@ -27,7 +28,7 @@ const ContactSummary = ({ contact, owner, followers, tags }) => {
         <div className="meta-section">
           <label className="meta-label">Owner</label>
           <div className="owner-selector">
-            <img 
+            <LazyImage 
               src={owner.avatar} 
               alt={owner.name}
               className="owner-avatar"
@@ -42,7 +43,7 @@ const ContactSummary = ({ contact, owner, followers, tags }) => {
           <div className="followers-selector">
             <div className="followers-avatars">
               {followers.slice(0, 3).map((follower, index) => (
-                <img 
+                <LazyImage 
                   key={follower.name}
                   src={follower.avatar} 
                   alt={follower.name}
